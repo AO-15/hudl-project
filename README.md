@@ -94,9 +94,9 @@ The tests are written using Pytest and are located in the tests directory. The c
 2. Next the step definitions live inside the `tests` folder.
 
 - They are marked with fixture for example:
-  In Gherkin:
+-  In Gherkin:
 - `Given I am on the Login Page`
-  In test_login.py, the method is given a function decoration like:
+- In test_login.py, the method is given a function decoration like:
 - `@given("I am on the Login Page")`
 
 ### How to add a test

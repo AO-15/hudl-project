@@ -1,6 +1,11 @@
 # Hudl Login Project
 
-This project is an automation test framework designed to test Hudl's front end web application using Selenium, Pytest and Pytest-BDD. The tests are written using the Behavioural Driven Development (BDD) framework.
+This project is an automation test framework designed to test Hudl's front end web application using Selenium, Pytest and Pytest-BDD. The tests are written using the Behavioural Driven Development (BDD) framework. 
+
+They follow the Page Object Model design pattern to enable resuabililty and improve test maintenance. 
+
+The DriverFactory class uses the Factory design pattern to improve decoupling.
+
 
 ## Getting Started
 

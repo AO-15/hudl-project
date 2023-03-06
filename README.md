@@ -103,5 +103,5 @@ The tests are written using Pytest and are located in the tests directory. The c
 5. Use the login_page fixture to interact with the UI.
 6. Ensure the text inside the function decorators match the text inside the `.features` class
 
-License
+### License
 This project is licensed under the MIT License.

@@ -1,4 +1,4 @@
-# Hudl Login Project
+# Hudl Project
 
 This project is an automation test framework designed to test Hudl's front end web application using Selenium, Pytest and Pytest-BDD. The tests are written using the Behavioural Driven Development (BDD) framework. 
 
